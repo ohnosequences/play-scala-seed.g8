@@ -6,3 +6,5 @@ target
 /.project
 /.settings
 /RUNNING_PID
+# production configuration
+conf/production.conf
